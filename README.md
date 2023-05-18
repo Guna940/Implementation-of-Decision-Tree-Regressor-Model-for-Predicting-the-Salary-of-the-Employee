@@ -19,8 +19,8 @@ salary of the employee.
 ## Program:
 ```txt
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: YUGENDARAN.G 
-RegisterNumber:  212221220063
+Developed by: Gunanithi S
+RegisterNumber:  212220220015
 ```
 ```py3
 import pandas as pd
